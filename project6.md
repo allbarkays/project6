@@ -370,7 +370,7 @@ exit
 
 on web server goto:
 
-`cd /var/www/html/wordpress/wordpress`
+`cd /var/www/html/wordpress`
 
 `sudo vi wp-config.php`
 
@@ -381,8 +381,18 @@ on web server goto:
 ![bind-address.PNG](./images/bind-address.PNG)
 
 
-* Still I got the same error page
+* Now got the expected result
 
+![wordpress-page.PNG](./images/wordpress-page.PNG)
+
+
+![wordpress.PNG](./images/wordpress.PNG)
+
+
+![Viola.PNG](./images/Viola.PNG)
+
+
+***Project 6 successfully completed!!!***
 
 
 
